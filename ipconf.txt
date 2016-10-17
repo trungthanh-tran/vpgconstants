@@ -1,1 +1,1 @@
-{"serveripaddress":"id.viga.mobi","port":54321}
+{"serveripaddress":"id.vgpjsc.vn","port":54321}
